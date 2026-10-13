@@ -1,6 +1,6 @@
 from pathlib import Path
 
-readme = r'''# 🚗 Smart Parking Space Detection System
+# Smart Parking Space Detection System
 
 > **Computer Vision • OpenCV • Machine Learning • Python**
 

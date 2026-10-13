@@ -1,4 +1,4 @@
-from pathlib import Path
+
 
 # Smart Parking Space Detection System
 
